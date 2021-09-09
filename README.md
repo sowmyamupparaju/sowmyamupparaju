@@ -1,6 +1,6 @@
 ### Hello 👋..
 
-A Farmer’s Daughter | Software Engineer 
+I'm Sowmya. A Farmer’s Daughter | Software Engineer 
 
 - 💬 Ask me about Stocks and Cars
 - 😄 Pronouns: She/Her
