@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Sowmya.. Farmer's Daughter and currently working @ Apple
+
+💬 Ask me about Stocks and Cars
+⚡ Fun fact: Learned to Swim and 
+My Personal Blog : https://sowmyamupparaju.medium.com/
+How to reach me: LinkedIn
+
 <!--
 **sowmyamupparaju/sowmyamupparaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
