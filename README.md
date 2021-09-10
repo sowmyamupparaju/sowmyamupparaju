@@ -22,4 +22,8 @@ I'm Sowmya. A Farmer’s Daughter | Software Engineer
 2. [Data Model - Video Streaming App](https://medium.com/geekculture/data-modeling-design-video-streaming-platform-e8aa4f121b1b)
 3. [Data Model - Cloud Storage Platform](https://sowmyamupparaju.medium.com/data-engineer-interviews-design-data-model-for-cloud-storage-platform-5768a19bdc40)
 
+----------------------
+#### Life Lessons
+1. [Debt-Free Life](https://medium.com/writers-blokke/why-ive-chosen-a-debt-free-life-8dc596b63f77)
+2. [5 Biggest Takeaways From my 20s](https://sowmyamupparaju.medium.com/5-biggest-takeaways-from-my-20s-b413f302059f)
 
